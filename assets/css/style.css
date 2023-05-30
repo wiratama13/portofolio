@@ -468,7 +468,6 @@ section {
   }
 }
 
-
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
@@ -585,7 +584,6 @@ section {
   color: #012970;
   font-weight: 600;
   font-size: 14px;
-  text-transform: uppercase;
   padding: 0;
   margin: 0;
 }
@@ -697,7 +695,7 @@ section {
   text-align: center;
   margin-top: 12px;
   margin-bottom: 20px;
- color: #001435;
+  color: #001435;
 }
 
 .start-10 {
@@ -738,4 +736,3 @@ section {
   line-height: 24px;
   color: #a1a1a3;
 }
-
